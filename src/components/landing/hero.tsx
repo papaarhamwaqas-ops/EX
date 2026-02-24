@@ -17,9 +17,6 @@ export function Hero() {
             <Button size="lg" asChild>
               <Link href="/login">Login</Link>
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary-foreground" asChild>
-              <Link href="#sample-paper">View Sample Paper</Link>
-            </Button>
           </div>
         </div>
       </div>
