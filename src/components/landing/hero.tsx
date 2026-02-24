@@ -1,24 +1,9 @@
 import Link from "next/link";
-import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 export function Hero() {
-  const heroImage = PlaceHolderImages[0];
-
   return (
-    <section className="relative bg-background">
-      <div className="absolute inset-0 -z-10 h-full w-full">
-        <Image
-          src={heroImage.imageUrl}
-          alt={heroImage.description}
-          fill
-          className="object-cover"
-          data-ai-hint={heroImage.imageHint}
-        />
-        <div className="absolute inset-0 bg-black/60" />
-      </div>
-
+    <section className="relative bg-black">
       <div className="container mx-auto max-w-7xl px-4 py-20 sm:py-28 lg:py-36">
         <div className="text-center">
           <h1 className="font-extrabold tracking-tight text-4xl sm:text-5xl md:text-6xl lg:text-7xl">
