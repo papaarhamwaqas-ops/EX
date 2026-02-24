@@ -1,10 +1,10 @@
 {
   "placeholderImages": [
     {
-      "id": "hero-abstract",
-      "description": "Abstract shapes with an academic feel",
-      "imageUrl": "https://images.unsplash.com/photo-1638353399120-8fedd274cb81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NzE4MzU5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "abstract education"
+      "id": "hero-digital-exam",
+      "description": "A person taking an exam on a laptop in a modern setting",
+      "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50JTIwb24lMjBsYXB0b3B8ZW58MHx8fHwxNzE3Njg0NzM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "student laptop"
     }
   ]
 }
